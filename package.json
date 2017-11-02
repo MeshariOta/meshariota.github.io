@@ -1,0 +1,37 @@
+{
+  "name": "umar5111",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iamalotaibi/website.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/iamalotaibi/website/issues"
+  },
+  "homepage": "https://github.com/iamalotaibi/website#readme",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "body-parser": "^1.17.2",
+    "connect-flash": "^0.1.1",
+    "ejs": "^2.5.6",
+    "express": "4.16.2",
+    "express-messages": "^1.0.1",
+    "express-session": "^1.15.3",
+    "express-validator": "^3.2.0",
+    "http": "0.0.0",
+    "mongoose": "^4.10.0",
+    "node-restful": "^0.2.6",
+    "passport": "^0.3.2",
+    "passport-google": "^0.3.0",
+    "passport-local-mongoose": "^4.0.0",
+    "passport-twitter": "^1.0.4"
+  }
+}

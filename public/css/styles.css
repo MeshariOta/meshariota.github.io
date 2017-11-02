@@ -1,0 +1,37 @@
+body {
+  width: 100%;
+  padding: 0;
+  margin: 0;
+  border: 0;
+}
+#site-header {
+  float: left;
+  width: 30%;
+  height: 90%;
+  max-width: 300px;
+}
+#site-brand {
+  width: 100%;
+}
+#site-brand img {
+  width: 70%;
+  padding-top: 25px;
+  padding-left: 25px;
+  border-radius: 50%;
+}
+#site-brand h1 a{
+  color: black;
+  font-size: 25;
+  text-decoration: none;
+}
+#site-body {
+  float: left;
+  width: 70%;
+  height: 90%;
+}
+#site-footer{
+  float: left;
+  background: black;
+  width: 100%;
+  height: 10%;
+}
